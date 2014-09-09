@@ -3,7 +3,7 @@
 # VERSION 1.0
 
 FROM centos
-MAINTAINER Ian Blenke <ian@blenke.com>
+MAINTAINER Nick Richardson <richa283@uwm.edu>
 
 ENV CB_VERSION 2.2.0
 ENV CB_RELEASE_URL http://packages.couchbase.com/releases
