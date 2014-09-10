@@ -35,3 +35,4 @@ fi
 
 # Wait indefinitely on Couchbase process
 wait $PID
+while true; do echo 'Couchbase is still running!'; sleep 100; done
